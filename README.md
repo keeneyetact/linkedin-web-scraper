@@ -31,15 +31,15 @@ As written in [Linkedin User Agreement](https://www.linkedin.com/legal/user-agre
 
 # Table of Contents
 
-- [Usage](https://github.com/J4NN0/linkedin-web-scraper#usage)
-- [Troubleshooting](https://github.com/J4NN0/linkedin-web-scraper#troubleshooting)
-- [Resources](https://github.com/J4NN0/linkedin-web-scraper#resources)
+- [Usage](https://github.com/keeneyetact/linkedin-web-scraper#usage)
+- [Troubleshooting](https://github.com/keeneyetact/linkedin-web-scraper#troubleshooting)
+- [Resources](https://github.com/keeneyetact/linkedin-web-scraper#resources)
 
 # Usage
 
 1. Clone project
 
-       git clone https://github.com/J4NN0/linkedin-web-scraper.git
+       git clone https://github.com/keeneyetact/linkedin-web-scraper.git
        cd linkedin-web-scraper
     
 2. Install requirements
